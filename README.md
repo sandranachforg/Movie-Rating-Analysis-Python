@@ -1,4 +1,4 @@
-# TV Ratings 
+# Movie Ratings 
 
 Have you wondered what genre has received the highest ratings?
 
