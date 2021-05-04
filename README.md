@@ -14,6 +14,6 @@ where I explain step-by-step how simple it is to use a language like Python to a
 
 https://www.youtube.com/watch?v=m1XvMtK-6BY&t=11s
 
-*Enjoy watching!
+*Enjoy watching!*
 
 
