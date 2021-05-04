@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/49343277/117003604-0d77a380-acb3-11eb-9daa-da9b98d29bb6.png" width="100">
 
 
-**Have you wondered what genre has the highest ratings?**
+**Have you ever wondered what genre gets the highest ratings?**
 
 As a passionate film producer, I was curious to find out what people actually like to watch.
 The dataset I analyzed is from Kaggle and captures ratings from IMDB and Rotten Tomatoes.
