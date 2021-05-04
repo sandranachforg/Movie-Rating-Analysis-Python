@@ -1,7 +1,7 @@
 # Movie Ratings 
 
 
-<img src="https://user-images.githubusercontent.com/49343277/117003526-f5a01f80-acb2-11eb-8348-d9c2fa1fe6bb.png" width="100">
+<img src="https://user-images.githubusercontent.com/49343277/117003604-0d77a380-acb3-11eb-9daa-da9b98d29bb6.png" width="100">
 
 
 **Have you wondered what genre has the highest ratings?**
